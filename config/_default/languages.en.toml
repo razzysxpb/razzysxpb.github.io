@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Razvan Avram"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  logo = "img/logo_inverted.svg"
+  secondaryLogo = "img/logo.svg"
+  description = "Blog | Razvan Avram"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Razvan Avram"
+  image = "https://avatars.githubusercontent.com/u/43684793?v=4"
+  headline = "aspiring cybersecurity practitioner"
+  bio = "IT enthusiast with a background in software engineering and a strong interest in building a career in cybersecurity."
+   links = [
+     { envelope = "mailto:Razvan@Avram.dev" },
+     { linkedin = "https://www.linkedin.com/in/razvanavram/"},
+     { github = "https://github.com/razzysxpb"}
+
+   ]

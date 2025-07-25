@@ -1,0 +1,101 @@
+colorScheme = "congo"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = [ "posts" ]
+firebase = { }
+fathomAnalytics = { }
+verification = { }
+defaultFeaturedImage = "/img/background.jpg"
+defaultBackgroundImage = "/img/background.jpg"
+highlightCurrentMenuArea = true
+disableTextInHeader = true
+smartTOC = false
+
+[header]
+layout = "fixed"
+
+[footer]
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+homepageImage = "img/background.jpg"
+showRecent = true
+showRecentItems = 6
+showMoreLink = true
+showMoreLinkDest = "/posts"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+
+[article]
+showDate = true
+showViews = false
+showLikes = false
+showDateOnlyInArticle = true
+showDateUpdated = false
+showAuthor = true
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+# editURL = ""
+editAppendPath = true
+seriesOpened = true
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showRelatedContent = true
+relatedContentLimit = 3
+showTaxonomies = true 
+showAuthorsBadges = true
+showAuthorBottom = true
+showWordCount = false
+showSummary = true
+
+[list]
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showSummary = false
+showTableOfContents = false
+showCards = true
+groupByYear = false
+cardView = true
+cardViewScreenWidth = false
+
+[sitemap]
+excludedKinds = [ ]
+
+[taxonomy]
+showTermCount = true
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = true
+showLikes = true
+showTableOfContents = true
+
+[term]
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = true
+showLikes = true
+showTableOfContents = true
+groupByYear = false
+cardViewScreenWidth = false
+cardView = false
