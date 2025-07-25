@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Razvan Avram</title>
+    <link>https://razzysxpb.github.io/</link>
+    <description>Recent content in Welcome on Razvan Avram</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Razvan Avram</copyright>
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://razzysxpb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I&#39;m learning German</title>
+      <link>https://razzysxpb.github.io/posts/post-lite-one/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://razzysxpb.github.io/posts/post-lite-one/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://razzysxpb.github.io/posts/post-lite-one/cover.png" />
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://razzysxpb.github.io/resume/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://razzysxpb.github.io/resume/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Experience 
+    &lt;div id=&#34;experience&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#experience&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;&lt;/th&gt;
+            &lt;th&gt;Company&lt;/th&gt;
+            &lt;th&gt;Role&lt;/th&gt;
+            &lt;th&gt;Dates&lt;/th&gt;
+            &lt;th&gt;Location&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td &gt;&lt;img class=&#34;customEntitityLogo medium-zoom-image&#34; src=&#34;sainsburys.png&#34;/&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://www.sainsburys.co.uk/&#34; target=&#34;_blank&#34;&gt;Sainsbury&#39;s&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Online Assistant&lt;/td&gt;
+            &lt;td&gt;2019 - Present&lt;/td&gt;
+            &lt;td&gt;Milton Keynes, UK&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td &gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;EE.png&#34;/&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://www.umassmed.edu/&#34; target=&#34;_blank&#34;&gt;EE&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Retail Advisor&lt;/td&gt;
+            &lt;td&gt;2018 - 2019&lt;/td&gt;
+            &lt;td&gt;Milton Keynes, UK&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Education 
+    &lt;div id=&#34;education&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#education&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;&lt;/th&gt;
+            &lt;th&gt;School&lt;/th&gt;
+            &lt;th&gt;Degree&lt;/th&gt;
+            &lt;th&gt;Graduated&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;UON-Logo.png&#34;/&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://www.northampton.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Northampton&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://www.northampton.ac.uk/courses/software-engineering-bsc-hons/&#34; &gt;Software Engineering BSc&lt;/td&gt;
+            &lt;td&gt;2024&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;mk_college_logo.webp&#34;/&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://mkcollege.ac.uk/&#34; target=&#34;_blank&#34;&gt;Milton Keynes College&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://mkcollege.ac.uk/courses/access-to-higher-education/computer-science-access-to-he-diploma/&#34; &gt;Diploma in Access to Higher Education - Computer Science&lt;/td&gt;
+            &lt;td&gt;2019&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Certifications 
+    &lt;div id=&#34;certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#certifications&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Certification&lt;/th&gt;
+            &lt;th&gt;&lt;/th&gt;
+            &lt;th&gt;Provider&lt;/th&gt;
+            &lt;th&gt;Year&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt; 
+            &lt;td&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;secp.webp&#34;/&gt;&lt;/td&gt;
+            &lt;td&gt;CompTIA Security+&lt;/td&gt;
+            &lt;td rowspan=1&gt;&lt;a href=&#34;https://www.comptia.org/en/certifications/security/&#34; target=&#34;_blank&#34;&gt;CompTIA&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;2025&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://razzysxpb.github.io/about/</link>
+      <pubDate>Mon, 13 Jun 2022 21:28:51 +0100</pubDate>
+      
+      <guid>https://razzysxpb.github.io/about/</guid>
+      <description>&lt;!-- &lt;div class=&#34;flex flex-row flex-wrap items-center space-x-2&#34;&gt;
+
+&lt;div class=&#34;flex mt-2&#34;&gt;
+  &lt;span
+    class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;&gt;
+    &lt;span class=&#34;flex flex-row items-center&#34;&gt;
+      
+        &lt;span class=&#34;mr-1&#34;&gt;
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+&lt;/span&gt;
+      
+      &lt;span&gt;Lorem ipsum dolor.&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;flex mt-2&#34;&gt;
+  &lt;span
+    class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;&gt;
+    &lt;span class=&#34;flex flex-row items-center&#34;&gt;
+      
+        &lt;span class=&#34;mr-1&#34;&gt;
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
+&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+&lt;/span&gt;
+      
+      &lt;span&gt;&lt;strong&gt;Important&lt;/strong&gt; skill&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;From a young age, I’ve been passionate about technology, always keen to explore computers, game consoles, and mobile devices. After moving to England as a teenager, I studied &lt;strong&gt;Computer Science&lt;/strong&gt; at Milton Keynes College and completed a BSc (Hons) in &lt;strong&gt;Software Engineering&lt;/strong&gt; (2:1) at the University of Northampton.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://razzysxpb.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://razzysxpb.github.io/contact/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Feel free to  reach out via the following: 
+    &lt;div id=&#34;feel-free-to--reach-out-via-the-following&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+ &lt;a
+  href=&#34;mailto:Razvan@Avram.dev&#34;&gt;Razvan@Avram.dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+ &lt;a
+  href=&#34;https://www.linkedin.com/in/RazvanAvram/&#34;
+    target=&#34;_blank&#34;
+  &gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

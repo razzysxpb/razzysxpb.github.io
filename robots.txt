@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://razzysxpb.github.io/sitemap.xml
