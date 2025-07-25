@@ -3,7 +3,7 @@ title: "About Me"
 # date: 2022-06-13T21:28:51+01:00
 draft: false
 
-showAuthorBottom : true
+showAuthorBottom : false
 showDate : false
 showDateOnlyInArticle : false
 showDateUpdated : false
