@@ -1,1 +1,1 @@
-# razzysxpb.github.io
+Repository where my personal blog/portfolio is stored
