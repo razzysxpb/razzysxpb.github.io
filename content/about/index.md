@@ -28,7 +28,7 @@ layoutBackgroundHeaderSpace: false
 
 From a young age, I’ve been passionate about technology, always keen to explore computers, game consoles, and mobile devices. After moving to England as a teenager, I studied **Computer Science** at Milton Keynes College and completed a BSc (Hons) in **Software Engineering** (2:1) at the University of Northampton.
 
-I work extensively with both **Fedora Linux** and **Windows** in a dual-boot environment, and I'm also familiar with **macOS** and **iOS** devices. Over the years, I’ve developed strong technical skills by diagnosing and repairing hardware and software issues, upgrading components (RAM, SSDs, GPUs, CPUs), and building custom desktop computers for friends and family.
+I work extensively with both **Fedora Linux** and **Windows** in a dual-boot environment, and I'm also familiar with **macOS** and **iOS** devices. Over the years, I’ve developed strong technical skills by diagnosing, repairing hardware and software issues, upgrading components (RAM, SSDs, GPUs, CPUs), and building custom desktop computers for friends and family.
 
 In March 2025, I achieved my **CompTIA Security+** certification. Currently, I am preparing for the **Cisco CCNA** and advancing my practical cybersecurity knowledge through [TCM Academy](https://academy.tcm-sec.com/p/security-operations-soc-101) and [HackTheBox](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst). My goal is to apply my skills and passion in a SOC Analyst role, helping organizations stay secure in an evolving threat landscape.
 
