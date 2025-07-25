@@ -16,7 +16,7 @@ title = "Razvan Avram"
 [params.author]
   name = "Razvan Avram"
   image = "https://avatars.githubusercontent.com/u/43684793?v=4"
-  headline = "aspiring Cybersecurity Practitioner"
+  headline = "Aspiring Cybersecurity Practitioner"
   bio = "IT enthusiast with a background in software engineering and a strong interest in building a career in cybersecurity."
    links = [
      { envelope = "mailto:Razvan@Avram.dev" },
