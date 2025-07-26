@@ -6,7 +6,7 @@ showWordCount: false
 showReadingTime: false
 draft: false
 showEdit: false
-showAuthor: true
+showAuthor: false
 sharingLinks: false
 ---
 

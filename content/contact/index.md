@@ -18,6 +18,7 @@ showEdit: false
 showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
+showAuthor: false
 ---
 
 ## Feel free to  reach out via the following:
