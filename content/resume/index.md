@@ -25,14 +25,14 @@ sharingLinks: false
     <tbody>
         <tr>
             <td ><img class="customEntitityLogo medium-zoom-image" src="sainsburys.png"/></td>
-            <td><a href="https://www.sainsburys.co.uk/" target="_blank">Sainsbury's</a></td>
+            <td><a href="https://www.sainsburys.co.uk/">Sainsbury's</a></td>
             <td>Online Assistant</td>
             <td>2019 - Present</td>
             <td>Milton Keynes, UK</td>
         </tr>
         <tr>
             <td ><img class="customEntitityLogo" src="EE.png"/></td>
-            <td><a href="https://www.umassmed.edu/" target="_blank">EE</a></td>
+            <td><a href="https://ee.co.uk/">EE</a></td>
             <td>Retail Advisor</td>
             <td>2018 - 2019</td>
             <td>Milton Keynes, UK</td>
@@ -56,14 +56,14 @@ sharingLinks: false
     <tbody>
         <tr>
             <td><img class="customEntitityLogo" src="UON-Logo.png"/></td>
-            <td><a href="https://www.northampton.ac.uk/" target="_blank">University of Northampton</a></td>
+            <td><a href="https://www.northampton.ac.uk/">University of Northampton</a></td>
             <td><a href="https://www.northampton.ac.uk/courses/software-engineering-bsc-hons/" >Software Engineering BSc</td>
             <td>2024</td>
         </tr>
         <tr>
             <td><img class="customEntitityLogo" src="mk_college_logo.webp"/></td>
-            <td><a href="https://mkcollege.ac.uk/" target="_blank">Milton Keynes College</a></td>
-            <td><a href="https://mkcollege.ac.uk/courses/access-to-higher-education/computer-science-access-to-he-diploma/" >Diploma in Access to Higher Education - Computer Science</td>
+            <td><a href="https://mkcollege.ac.uk/">Milton Keynes College</a></td>
+            <td><a href="https://mkcollege.ac.uk/courses/access-to-higher-education/computer-science-access-to-he-diploma/">Diploma in Access to Higher Education - Computer Science</td>
             <td>2019</td>
         </tr>
     </tbody>

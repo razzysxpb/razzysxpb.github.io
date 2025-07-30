@@ -128,7 +128,17 @@ td {
     vertical-align: middle !important;
 }
 
-/* Center content */
+
+/* @media (max-width: 600px) {
+    table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+} */
+
+Center content
 .max-w-prose {
   max-width: 150ch;
 }
