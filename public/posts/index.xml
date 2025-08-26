@@ -2,21 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Razvan Avram</title>
-    <link>https://razzysxpb.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Razvan Avram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Razvan Avram</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://razzysxpb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Studying for Cisco CCNA</title>
+      <link>http://localhost:1313/posts/studying-ccna/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/studying-ccna/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;In my goal to become a cybersecurity practitioner, I acknowledged that it is essential to have an understanding of &lt;strong&gt;networking&lt;/strong&gt;, as majority of hacks and breaches happen on that layer.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/studying-ccna/cover.png" />
+    </item>
     
     <item>
       <title>Why I&#39;m learning German</title>
-      <link>https://razzysxpb.github.io/posts/post-lite-one/</link>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/learning-german/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://razzysxpb.github.io/posts/post-lite-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://razzysxpb.github.io/posts/post-lite-one/cover.png" />
+      <guid>http://localhost:1313/posts/learning-german/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Since being a teenager, I never really had any interaction with the German language. Our school curriculum only included English and French as foreign languages &amp;ndash; not really liking the latter, I always thought to myself I would never go live in France, so I wouldn&amp;rsquo;t need it.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/learning-german/cover.png" />
     </item>
     
   </channel>
