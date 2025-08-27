@@ -19,7 +19,7 @@ Being awake very early for my job, I was literally dozing off during the lesson 
 
 ## Trying to get into cybersecurity
 
-I've watched several roadmaps on how to get into the cybersecurity field as a beginner, and several people (YouTube) have recommended to get the **Cisco CCNA** certification. I am aware that it is intermediate level and quite difficult, but not impossible. There is also **CompTIA Network+** and it is not as though as CCNA, but if I'm planning on achieving the latter, might as well save myself some money in the process, plus lots of vendors use Cisco equipment.
+I've watched several roadmaps on how to get into the cybersecurity field as a beginner, and several people (YouTube) have recommended to get the **Cisco CCNA** certification. I am aware that it is intermediate level and quite difficult, but not impossible. There is also **CompTIA Network+** and it is not as tough as CCNA, but if I'm planning on achieving the latter, might as well save myself some money in the process, plus lots of vendors use Cisco equipment.
 
 Just when I thought that I would be done with Networking and never have to study again, I regretted not liking the lectures from university.
 
