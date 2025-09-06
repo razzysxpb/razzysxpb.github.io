@@ -13,7 +13,7 @@ draft: false
 
 In my goal to become a cybersecurity practitioner, I acknowledged that it is essential to have an understanding of **networking**, as majority of hacks and breaches happen on that layer.
 
-Back when I was in university, Monday used to be of our longest lecture days. Particularly for me, I was working part-time at a supermarket from 04:00 - 08:00, then taking the train to university and starting the lectures at 09:00 until 13:00, followed by a 1 hour break, then our Networking lesson from 14:00 to 18:00.
+Back when I was in university, Monday used to be one of our longest lecture days. Particularly for me, I was working part-time at a supermarket from 04:00 - 08:00, then taking the train to university and starting the lectures at 09:00 until 13:00, followed by a 1 hour break, then our Networking lesson from 14:00 to 18:00.
 
 Being awake very early for my job, I was literally dozing off during the lesson -- not a good look. The fact that our lecturer was literally reading off PowerPoint slides, each packed with lots of information didn't help much, lots of students were missing from the classroom too, choosing to skip the lessons altogether. Well, not me! Even though I was super tired, I was still doing my best to try and understand. After passing the exams and module, we never had to deal with Networking again in the following years.
 
