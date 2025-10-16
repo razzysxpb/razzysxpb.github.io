@@ -3,10 +3,11 @@ name = "Blog"
 pageRef = "posts"
 weight = 1
 
-[[main]]
-name = "Projects"
-pageRef = "projects"
-weight = 2
+# Hide Projects section temporarily until it gets more full
+# [[main]]
+# name = "Projects"
+# pageRef = "projects"
+# weight = 2
 
 
 [[main]]
